@@ -1,4 +1,4 @@
-# 📘 Portal do Aluno – Inst. Zanolli
+# 🥊 Portal do Aluno – Inst. Zanolli
 
 Este projeto tem como objetivo desenvolver uma plataforma completa de Portal do Aluno para o Instituto Zanolli, uma entidade desportiva e cultural. O sistema busca facilitar o relacionamento entre alunos e professores, oferecendo um ambiente unificado para gestão acadêmica, esportiva e administrativa.
 
